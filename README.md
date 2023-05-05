@@ -33,9 +33,9 @@ The Flowable downloads can be found on https://www.flowable.org/downloads.html.
 
 The distribution contains most of the sources as jar files. The source code of Flowable can be found on https://github.com/flowable/flowable-engine.
 
-### JDK 8+
+### JDK
 
-Flowable runs on a JDK higher than or equal to version 8. Use the JDK packaged with your Linux distribution or go to [adoptium.net](https://adoptium.net/) and click on the *Latest LTS Release* button. There are installation instructions on that page as well. To verify that your installation was successful, run `java -version` on the command line. That should print the installed version of your JDK.
+Flowable version 6.x.x runs on a JDK higher than or equal to version 8 while Flowable version 7.x.x requires a JDK version equal to or higher than 17. Use the JDK packaged with your Linux distribution or go to [adoptium.net](https://adoptium.net/) and click on the *Latest LTS Release* button. There are installation instructions on that page as well. To verify that your installation was successful, run `java -version` on the command line. That should print the installed version of your JDK.
 
 ### Contributing
 
